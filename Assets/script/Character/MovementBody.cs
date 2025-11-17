@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -24,8 +24,6 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
-        if (rb == null) Debug.LogError("[PlayerMovement] Rigidbody2D mancante sul Player!");
-        if (groundCheck == null) Debug.LogWarning("[PlayerMovement] groundCheck NON assegnato in Inspector!");
         rb.freezeRotation = true;
     }
 
@@ -33,87 +31,83 @@ public class PlayerMovement : MonoBehaviour
     {
         moveInput = Input.GetAxisRaw("Horizontal");
 
-        // Detect ground
-        if (groundCheck != null)
-        {
-            bool wasGrounded = isGrounded;
-            isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        // -------------------------
+        //     GROUND CHECK
+        // -------------------------
+        bool wasGrounded = isGrounded;
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-            if (isGrounded != wasGrounded)
-                Debug.Log($"[PlayerMovement] Grounded changed: {isGrounded}");
-        }
-        else
+        // Quando tocchi terra → attiva landing
+        if (!wasGrounded && isGrounded)
         {
-            isGrounded = false;
+            animator.SetBool("isLanding", true);
         }
 
-        // Reset doppio salto
+        // Reset doppio salto quando tocca terra
         if (isGrounded)
             canDoubleJump = true;
 
-        // JUMP + DOUBLE JUMP
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump"))
+        // -------------------------
+        //         SALTO
+        // -------------------------
+        if (Input.GetButtonDown("Jump"))
         {
-            Debug.Log("[PlayerMovement] Jump input detected. isGrounded=" + isGrounded + " canDoubleJump=" + canDoubleJump);
-
+            // Primo salto
             if (isGrounded)
             {
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-
-                if (animator != null)
-                    animator.SetTrigger("isJump"); // Trigger salto
+                animator.SetBool("isJumping", true);
             }
+            // Doppio salto
             else if (canDoubleJump)
             {
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, doubleJumpForce);
+                animator.SetBool("isJumping", true);
                 canDoubleJump = false;
-
-                if (animator != null)
-                    animator.SetTrigger("isJump"); // Trigger salto doppio
             }
         }
 
-        // Flip direzione
-        if (moveInput > 0)
-            transform.localScale = new Vector3(1, 1, 1);
-        else if (moveInput < 0)
-            transform.localScale = new Vector3(-1, 1, 1);
+        // -------------------------
+        //     FLIP DIREZIONE
+        // -------------------------
+        if (moveInput > 0) transform.localScale = new Vector3(1, 1, 1);
+        if (moveInput < 0) transform.localScale = new Vector3(-1, 1, 1);
 
-        // ---------------------------
-        //     SISTEMA ANIMAZIONI
-        // ---------------------------
-        if (animator != null)
+        // -------------------------
+        //  AGGIORNA PARAMETRI ANIMATOR
+        // -------------------------
+
+        animator.SetBool("isRunning", Mathf.Abs(moveInput) > 0.1f);
+        animator.SetBool("isGrounded", isGrounded);
+        animator.SetFloat("yVelocity", rb.linearVelocity.y);
+
+        // Salto e Caduta
+        if (!isGrounded)
         {
-            animator.SetBool("isRunning", moveInput != 0);
-            animator.SetBool("isGrounded", isGrounded);
-            animator.SetFloat("yVelocity", rb.linearVelocity.y);
-
-            // Stato salto / caduta
-            if (!isGrounded)
+            if (rb.linearVelocity.y > 0.1f)
             {
-                if (rb.linearVelocity.y > 0.1f)
-                {
-                    animator.SetBool("isJumping", true);
-                    animator.SetBool("isFalling", false);
-                }
-                else if (rb.linearVelocity.y < -0.1f)
-                {
-                    animator.SetBool("isJumping", false);
-                    animator.SetBool("isFalling", true);
-                }
+                animator.SetBool("isJumping", true);
+                animator.SetBool("isFalling", false);
+                animator.SetBool("isLanding", false);
             }
-            else
+            else if (rb.linearVelocity.y < -0.1f)
             {
                 animator.SetBool("isJumping", false);
-                animator.SetBool("isFalling", false);
+                animator.SetBool("isFalling", true);
+                animator.SetBool("isLanding", false);
             }
+        }
+        else
+        {
+            // A terra → niente Jump/Fall
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
         }
     }
 
     void FixedUpdate()
     {
-        if (rb != null)
-            rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
     }
 
     void OnDrawGizmosSelected()
@@ -121,15 +115,6 @@ public class PlayerMovement : MonoBehaviour
         if (groundCheck != null)
         {
             Gizmos.color = Color.yellow;
-            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-        }
-    }
-
-    void OnDrawGizmos()
-    {
-        if (groundCheck != null)
-        {
-            Gizmos.color = isGrounded ? Color.green : Color.red;
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
     }

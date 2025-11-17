@@ -43,6 +43,9 @@ TagManager:
   - name: Background
     uniqueID: 644424265
     locked: 0
+  - name: Trappole
+    uniqueID: 939619521
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
