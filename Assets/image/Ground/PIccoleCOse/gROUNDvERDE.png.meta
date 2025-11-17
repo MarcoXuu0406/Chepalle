@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 8d703af661c29914cb810eaae555c273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5317161332958737921
+    second: gROUNDvERDE_0
+  - first:
+      213: -9210951742702908504
+    second: gROUNDvERDE_1
+  - first:
+      213: -7210072873505481552
+    second: gROUNDvERDE_2
+  - first:
+      213: -5895519029571095791
+    second: gROUNDvERDE_3
+  - first:
+      213: -3709024724836140318
+    second: gROUNDvERDE_4
+  - first:
+      213: -7861718841468841354
+    second: gROUNDvERDE_5
+  - first:
+      213: 1334107225319269211
+    second: gROUNDvERDE_6
+  - first:
+      213: -6499588752262655701
+    second: gROUNDvERDE_7
+  - first:
+      213: 1309750896029682346
+    second: gROUNDvERDE_8
+  - first:
+      213: 1815774945431390998
+    second: gROUNDvERDE_9
+  - first:
+      213: 121343407145069767
+    second: gROUNDvERDE_10
+  - first:
+      213: -8966029907690110155
+    second: gROUNDvERDE_11
+  - first:
+      213: 4614314895733420247
+    second: gROUNDvERDE_12
+  - first:
+      213: 7482825993441070486
+    second: gROUNDvERDE_13
+  - first:
+      213: -774882726155671608
+    second: gROUNDvERDE_14
+  - first:
+      213: 1296967450458922390
+    second: gROUNDvERDE_15
+  - first:
+      213: 147860777902507080
+    second: gROUNDvERDE_16
+  - first:
+      213: 7595864706897547520
+    second: gROUNDvERDE_17
+  - first:
+      213: 7508303471130374546
+    second: gROUNDvERDE_18
+  - first:
+      213: 4542018625215028052
+    second: gROUNDvERDE_19
+  - first:
+      213: 1346330942278803743
+    second: gROUNDvERDE_20
+  - first:
+      213: -1036518340921224191
+    second: gROUNDvERDE_21
+  - first:
+      213: 4082216094037424846
+    second: gROUNDvERDE_22
+  - first:
+      213: -8784487930751249855
+    second: gROUNDvERDE_23
+  - first:
+      213: 9179802025840623226
+    second: gROUNDvERDE_24
+  - first:
+      213: -6319504759591663354
+    second: gROUNDvERDE_25
+  - first:
+      213: -6329332835549077243
+    second: gROUNDvERDE_26
+  - first:
+      213: 526788875004239782
+    second: gROUNDvERDE_27
+  - first:
+      213: 996573075473324081
+    second: gROUNDvERDE_28
+  - first:
+      213: 4222577225513286587
+    second: gROUNDvERDE_29
+  - first:
+      213: 2137004704382117105
+    second: gROUNDvERDE_30
+  - first:
+      213: -57508207485322520
+    second: gROUNDvERDE_31
+  - first:
+      213: -5280135529594057757
+    second: gROUNDvERDE_32
+  - first:
+      213: 6013521482701608209
+    second: gROUNDvERDE_33
+  - first:
+      213: 8008983353558921566
+    second: gROUNDvERDE_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gROUNDvERDE_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 986
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94d8f60f5a536b0800000000000000
+      internalID: -5317161332958737921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 534
+        width: 763
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8de411302c2080800000000000000
+      internalID: -9210951742702908504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_2
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1013
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc96021ceca0fb90800000000000000
+      internalID: -7210072873505481552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 683
+        width: 178
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113fbdbada8ee2ea0800000000000000
+      internalID: -5895519029571095791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_4
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 803
+        width: 46
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea300df9a5e68cc0800000000000000
+      internalID: -3709024724836140318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 914
+        width: 16
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672114aed5095e290800000000000000
+      internalID: -7861718841468841354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 966
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ef69f373b38210800000000000000
+      internalID: 1334107225319269211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 866
+        width: 16
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2192435772dcc5a0800000000000000
+      internalID: -6499588752262655701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 931
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4916208b2d2210800000000000000
+      internalID: 1309750896029682346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 722
+        width: 21
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0e7641bde23910800000000000000
+      internalID: 1815774945431390998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 875
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cca7b69f291fa100800000000000000
+      internalID: 121343407145069767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 842
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334a929d43429380800000000000000
+      internalID: -8966029907690110155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 605
+        width: 50
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fbf133f6590040800000000000000
+      internalID: 4614314895733420247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 822
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4d17689658d760800000000000000
+      internalID: 7482825993441070486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_14
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 764
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7a7ec14401f35f0800000000000000
+      internalID: -774882726155671608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 764
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d19d94601cff110800000000000000
+      internalID: 1296967450458922390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 719
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448717189e4d0200800000000000000
+      internalID: 147860777902507080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 635
+        width: 21
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011e80d4bee96960800000000000000
+      internalID: 7595864706897547520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_18
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 605
+        width: 11
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291fe8ee93ad23860800000000000000
+      internalID: 7508303471130374546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 626
+        width: 15
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b562fffdd780f30800000000000000
+      internalID: 4542018625215028052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_20
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 665
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1125acdbd02fa210800000000000000
+      internalID: 1346330942278803743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_21
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 637
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10496368f0c8d91f0800000000000000
+      internalID: -1036518340921224191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 662
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabb75b8e1f6a830800000000000000
+      internalID: 4082216094037424846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 635
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429dd9e4ca371680800000000000000
+      internalID: -8784487930751249855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_24
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 655
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e34aa4e45356f70800000000000000
+      internalID: 9179802025840623226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 642
+        width: 192
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609062047eb9c48a0800000000000000
+      internalID: -6319504759591663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_26
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 655
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501a1eff151b928a0800000000000000
+      internalID: -6329332835549077243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 510
+        width: 16
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5146d0b78f4700800000000000000
+      internalID: 526788875004239782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 619
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385e4c9ee984dd00800000000000000
+      internalID: 996573075473324081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 610
+        width: 306
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbbf5b4d9b999a30800000000000000
+      internalID: 4222577225513286587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 597
+        width: 203
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4e800d47a28ad10800000000000000
+      internalID: 2137004704382117105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_31
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 599
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafa290790b33ff0800000000000000
+      internalID: -57508207485322520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_32
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 601
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb80a016b039b6b0800000000000000
+      internalID: -5280135529594057757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 1012
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151c917de1547350800000000000000
+      internalID: 6013521482701608209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gROUNDvERDE_34
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 592
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5175e83def952f60800000000000000
+      internalID: 8008983353558921566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gROUNDvERDE_0: -5317161332958737921
+      gROUNDvERDE_1: -9210951742702908504
+      gROUNDvERDE_10: 121343407145069767
+      gROUNDvERDE_11: -8966029907690110155
+      gROUNDvERDE_12: 4614314895733420247
+      gROUNDvERDE_13: 7482825993441070486
+      gROUNDvERDE_14: -774882726155671608
+      gROUNDvERDE_15: 1296967450458922390
+      gROUNDvERDE_16: 147860777902507080
+      gROUNDvERDE_17: 7595864706897547520
+      gROUNDvERDE_18: 7508303471130374546
+      gROUNDvERDE_19: 4542018625215028052
+      gROUNDvERDE_2: -7210072873505481552
+      gROUNDvERDE_20: 1346330942278803743
+      gROUNDvERDE_21: -1036518340921224191
+      gROUNDvERDE_22: 4082216094037424846
+      gROUNDvERDE_23: -8784487930751249855
+      gROUNDvERDE_24: 9179802025840623226
+      gROUNDvERDE_25: -6319504759591663354
+      gROUNDvERDE_26: -6329332835549077243
+      gROUNDvERDE_27: 526788875004239782
+      gROUNDvERDE_28: 996573075473324081
+      gROUNDvERDE_29: 4222577225513286587
+      gROUNDvERDE_3: -5895519029571095791
+      gROUNDvERDE_30: 2137004704382117105
+      gROUNDvERDE_31: -57508207485322520
+      gROUNDvERDE_32: -5280135529594057757
+      gROUNDvERDE_33: 6013521482701608209
+      gROUNDvERDE_34: 8008983353558921566
+      gROUNDvERDE_4: -3709024724836140318
+      gROUNDvERDE_5: -7861718841468841354
+      gROUNDvERDE_6: 1334107225319269211
+      gROUNDvERDE_7: -6499588752262655701
+      gROUNDvERDE_8: 1309750896029682346
+      gROUNDvERDE_9: 1815774945431390998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
