@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 3;     // quante vite totali (cuori)
+    public int maxHealth = 3;
     public int currentHealth;
 
-    public HealtUI healthUI;      // UI dei cuori
+    public HealtUI healthUI;
     public Transform respawnPoint;
 
     private Rigidbody2D rb;
@@ -19,49 +19,46 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        // Perde 1 cuore
         currentHealth -= damage;
 
         if (currentHealth < 0)
             currentHealth = 0;
 
-        // Aggiornamento UI
+        // Aggiorna cuori
         healthUI.UpdateHearts(currentHealth, maxHealth);
 
-        // Se finisce i cuori → respawn totale
+        // Se muore → respawn totale
         if (currentHealth == 0)
         {
-            Die();
-        }
-        else
-        {
-            RespawnWithoutResettingLives();
+            FullRespawn();
         }
     }
 
-    void RespawnWithoutResettingLives()
+    void FullRespawn()
     {
-        // Respawn ma NON ristoro le vite
+        // Teletraspota allo spawn
         transform.position = respawnPoint.position;
-        rb.linearVelocity = Vector2.zero;
-    }
 
-    void Die()
-    {
-        // Respawn totale e ricarica cuori
-        transform.position = respawnPoint.position;
+        // Reset movimento
         rb.linearVelocity = Vector2.zero;
 
+        // Ripristina cuori
         currentHealth = maxHealth;
         healthUI.UpdateHearts(currentHealth, maxHealth);
     }
 
-    public void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
+        // DEATHZONE = one-shot
         if (collision.CompareTag("DeathZone"))
         {
-            // La DeathZone ora toglie SOLO 1 vita
-            TakeDamage(1);
+            currentHealth = 0;
+            FullRespawn();
         }
     }
+    public void SetCheckpoint(Transform newCheckpoint)
+    {
+        respawnPoint = newCheckpoint;
+    }
+
 }

@@ -1,15 +1,22 @@
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class MenuManager : MonoBehaviour
 {
-    public void PlayGame(){
+    public GameObject homeMenu;
+    public GameObject secondMenu;
 
-        SceneManager.LoadSceneAsync("Level");
+    public void OnStartPressed()
+    {
+        homeMenu.SetActive(false);
+        secondMenu.SetActive(true);
     }
 
-    public void QuitGame(){
+    public void OnQuitPressed()
+    {
         Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
     }
 }
- 
