@@ -12,12 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Livello0.unity
     guid: 7ffd1d95c5420784581910c59c65a359
   - enabled: 0
-    path: Assets/Scenes/Level 2.unity
-    guid: b648324c4f7d8eb45b46ab358337a744
-  - enabled: 0
-    path: Assets/Scenes/Level 3.unity
-    guid: 7d3acd3d6eb373d439b4b1f44522d55d
-  - enabled: 0
     path: Assets/Scenes/Level 1.unity
     guid: 38d2e071279b08940865ad150e0413ec
   m_configObjects:

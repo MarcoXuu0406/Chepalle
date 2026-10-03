@@ -16,7 +16,7 @@ public class NicknameMenu : MonoBehaviour
 
         GameManager.Instance.StartRun(nick);
 
-        SceneManager.LoadScene("Level0");
+        SceneManager.LoadScene("Livello0");
     }
 
     public void OnBackPressed()
