@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: 8775a62992fbbc947a960c140ae0ef4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2145085011420660388
+    second: Perso-dead_0
+  - first:
+      213: -571057080139543010
+    second: Perso-dead_1
+  - first:
+      213: -7357005176912071699
+    second: Perso-dead_2
+  - first:
+      213: -6675604840968333932
+    second: Perso-dead_3
+  - first:
+      213: -8341233597324446505
+    second: Perso-dead_4
+  - first:
+      213: -2149050658458391477
+    second: Perso-dead_5
+  - first:
+      213: -2239643601817246054
+    second: Perso-dead_6
+  - first:
+      213: 8116415469565864373
+    second: Perso-dead_7
+  - first:
+      213: -8275105984667590554
+    second: Perso-dead_8
+  - first:
+      213: -6678985599480664033
+    second: Perso-dead_9
+  - first:
+      213: -1100049651864111594
+    second: Perso-dead_10
+  - first:
+      213: 1407773403104393817
+    second: Perso-dead_11
+  - first:
+      213: -8914080664540618662
+    second: Perso-dead_12
+  - first:
+      213: -5824817391577614820
+    second: Perso-dead_13
+  - first:
+      213: -2524138816604261800
+    second: Perso-dead_14
+  - first:
+      213: -8903606786149739989
+    second: Perso-dead_15
+  - first:
+      213: 7316632632295468527
+    second: Perso-dead_16
+  - first:
+      213: -5415664522181176938
+    second: Perso-dead_17
+  - first:
+      213: 6481471024274384163
+    second: Perso-dead_18
+  - first:
+      213: 4159977633194965005
+    second: Perso-dead_19
+  - first:
+      213: 8862186884244669869
+    second: Perso-dead_20
+  - first:
+      213: 6253754869375453275
+    second: Perso-dead_21
+  - first:
+      213: 1046853258595139197
+    second: Perso-dead_22
+  - first:
+      213: 3501424938648140295
+    second: Perso-dead_23
+  - first:
+      213: 1682379108301091508
+    second: Perso-dead_24
+  - first:
+      213: -3921249038023823986
+    second: Perso-dead_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso-dead_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 781
+        width: 129
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24eb6e37fd4cd10800000000000000
+      internalID: 2145085011420660388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 783
+        width: 159
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e8fc77c923318f0800000000000000
+      internalID: -571057080139543010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 785
+        width: 178
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3327b45caa6e990800000000000000
+      internalID: -7357005176912071699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 783
+        width: 212
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495543914cc7b53a0800000000000000
+      internalID: -6675604840968333932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_4
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 757
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43ceaac3cfd3c80800000000000000
+      internalID: -8341233597324446505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_5
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 982
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca442ffc90d22e0800000000000000
+      internalID: -2149050658458391477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 789
+        width: 249
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96e432a2003be0e0800000000000000
+      internalID: -2239643601817246054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 565
+        width: 213
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b965f0fddc43a070800000000000000
+      internalID: 8116415469565864373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 521
+        width: 213
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ed2943fae82d80800000000000000
+      internalID: -8275105984667590554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 349
+        width: 250
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10710bebf97f43a0800000000000000
+      internalID: -6678985599480664033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 560
+        width: 240
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f8518ba6dbb0f0800000000000000
+      internalID: -1100049651864111594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 559
+        width: 219
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab740937a698310800000000000000
+      internalID: 1407773403104393817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_12
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 554
+        width: 229
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50e0ea4dd2da4480800000000000000
+      internalID: -8914080664540618662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 559
+        width: 231
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16bf7d81771a2fa0800000000000000
+      internalID: -5824817391577614820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 645
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523788ae1578fcd0800000000000000
+      internalID: -2524138816604261800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 355
+        width: 223
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2299c32dc8007480800000000000000
+      internalID: -8903606786149739989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 348
+        width: 231
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda0082d96e98560800000000000000
+      internalID: 7316632632295468527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 347
+        width: 239
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69194bc7fc1b7d4b0800000000000000
+      internalID: -5415664522181176938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 349
+        width: 247
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325acd76e8fc2f950800000000000000
+      internalID: 6481471024274384163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_19
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 349
+        width: 228
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08f72ced953bb930800000000000000
+      internalID: 4159977633194965005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 244
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da587807400dcfa70800000000000000
+      internalID: 8862186884244669869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 188
+        width: 255
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b584e7d7becc9c650800000000000000
+      internalID: 6253754869375453275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 191
+        width: 240
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef5820e7b278e00800000000000000
+      internalID: 1046853258595139197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 27
+        width: 235
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70af0db2e6f879030800000000000000
+      internalID: 3501424938648140295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_24
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 27
+        width: 250
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b233d7a2e2095710800000000000000
+      internalID: 1682379108301091508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_25
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 25
+        width: 251
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d6fbc86cce499c0800000000000000
+      internalID: -3921249038023823986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 187
+        width: 255
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b047ad718672442883396c97d16ed4
+      internalID: 1533830404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 188
+        width: 248
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee2a3783b2cc484fa0a5359be5db89c
+      internalID: -631149718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_28
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 192
+        width: 240
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ec2426222aee458354ccf42638962
+      internalID: 1805328036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 247
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea2e95be85fe34f94a5b6a9451b02f
+      internalID: 807850399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 245
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5784444da31054b99ef1e64a370f32
+      internalID: -898453578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-dead_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 27
+        width: 243
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e243588b452d8e45b1fb515f23469a4
+      internalID: 907611056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f86aa09ea1b3dfe419df785e289fbd51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Perso-dead_0: 2145085011420660388
+      Perso-dead_1: -571057080139543010
+      Perso-dead_10: -1100049651864111594
+      Perso-dead_11: 1407773403104393817
+      Perso-dead_12: -8914080664540618662
+      Perso-dead_13: -5824817391577614820
+      Perso-dead_14: -2524138816604261800
+      Perso-dead_15: -8903606786149739989
+      Perso-dead_16: 7316632632295468527
+      Perso-dead_17: -5415664522181176938
+      Perso-dead_18: 6481471024274384163
+      Perso-dead_19: 4159977633194965005
+      Perso-dead_2: -7357005176912071699
+      Perso-dead_20: 8862186884244669869
+      Perso-dead_21: 6253754869375453275
+      Perso-dead_22: 1046853258595139197
+      Perso-dead_23: 3501424938648140295
+      Perso-dead_24: 1682379108301091508
+      Perso-dead_25: -3921249038023823986
+      Perso-dead_26: 1533830404
+      Perso-dead_27: -631149718
+      Perso-dead_28: 1805328036
+      Perso-dead_29: 807850399
+      Perso-dead_3: -6675604840968333932
+      Perso-dead_30: -898453578
+      Perso-dead_31: 907611056
+      Perso-dead_4: -8341233597324446505
+      Perso-dead_5: -2149050658458391477
+      Perso-dead_6: -2239643601817246054
+      Perso-dead_7: 8116415469565864373
+      Perso-dead_8: -8275105984667590554
+      Perso-dead_9: -6678985599480664033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

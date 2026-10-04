@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 460a02b8c8ddf3a4eb5b178b812ad0f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -724451293312547840
+    second: Perso-run_0
+  - first:
+      213: 176096166144578646
+    second: Perso-run_1
+  - first:
+      213: -7498188280912257515
+    second: Perso-run_2
+  - first:
+      213: 5292652106087418842
+    second: Perso-run_3
+  - first:
+      213: 3030555593106953031
+    second: Perso-run_4
+  - first:
+      213: 4933195532537443296
+    second: Perso-run_5
+  - first:
+      213: 3455352275684970034
+    second: Perso-run_6
+  - first:
+      213: 7741383818967929222
+    second: Perso-run_7
+  - first:
+      213: -5919258105899540778
+    second: Perso-run_8
+  - first:
+      213: 8542685342560988997
+    second: Perso-run_9
+  - first:
+      213: -8417803943824415488
+    second: Perso-run_10
+  - first:
+      213: 28203330063594385
+    second: Perso-run_11
+  - first:
+      213: -1193919541361393378
+    second: Perso-run_12
+  - first:
+      213: -4771705104609167124
+    second: Perso-run_13
+  - first:
+      213: -6503349022959478730
+    second: Perso-run_14
+  - first:
+      213: 2001376931368645930
+    second: Perso-run_15
+  - first:
+      213: -5691906690730819412
+    second: Perso-run_16
+  - first:
+      213: 2518752665872593854
+    second: Perso-run_17
+  - first:
+      213: -7260359362680129653
+    second: Perso-run_18
+  - first:
+      213: 889166524952643626
+    second: Perso-run_19
+  - first:
+      213: -9156129363374391954
+    second: Perso-run_20
+  - first:
+      213: -8551869312134826238
+    second: Perso-run_21
+  - first:
+      213: 2912314701519475129
+    second: Perso-run_22
+  - first:
+      213: -4654810461080097797
+    second: Perso-run_23
+  - first:
+      213: -1979735597755537675
+    second: Perso-run_24
+  - first:
+      213: 2638173663105413805
+    second: Perso-run_25
+  - first:
+      213: 758877468981199283
+    second: Perso-run_26
+  - first:
+      213: -570586158802513933
+    second: Perso-run_27
+  - first:
+      213: -5264695254905420145
+    second: Perso-run_28
+  - first:
+      213: 8813539535549471156
+    second: Perso-run_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso-run_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 771
+        width: 179
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048805136b32f5f0800000000000000
+      internalID: -724451293312547840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 776
+        width: 159
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541b55b78e917200800000000000000
+      internalID: 176096166144578646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 757
+        width: 164
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e5a315c7511f790800000000000000
+      internalID: -7498188280912257515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 767
+        width: 179
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb401f7c07437940800000000000000
+      internalID: 5292652106087418842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 767
+        width: 165
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743963f5142be0a20800000000000000
+      internalID: 3030555593106953031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 759
+        width: 179
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3307c133b367440800000000000000
+      internalID: 4933195532537443296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_6
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 757
+        width: 185
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4a066690e3ff20800000000000000
+      internalID: 3455352275684970034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_7
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 756
+        width: 174
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815a87519bee6b60800000000000000
+      internalID: 7741383818967929222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_8
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 983
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de91004d129adda0800000000000000
+      internalID: -5919258105899540778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 516
+        width: 193
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fa847de07bd8670800000000000000
+      internalID: 8542685342560988997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 523
+        width: 187
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a67b99e3fd2b80800000000000000
+      internalID: -8417803943824415488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 518
+        width: 209
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937ced77c2346000800000000000000
+      internalID: 28203330063594385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 515
+        width: 211
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c1c6b0885e6fe0800000000000000
+      internalID: -1193919541361393378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 511
+        width: 211
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce83ada2d7f77cdb0800000000000000
+      internalID: -4771705104609167124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 522
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638dd1415867fb5a0800000000000000
+      internalID: -6503349022959478730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 513
+        width: 221
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b3ef17b156cb10800000000000000
+      internalID: 2001376931368645930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 285
+        width: 203
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0025495094201b0800000000000000
+      internalID: -5691906690730819412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 287
+        width: 225
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb37766643864f220800000000000000
+      internalID: 2518752665872593854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 281
+        width: 211
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f4cd60a50e3b90800000000000000
+      internalID: -7260359362680129653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 283
+        width: 205
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2888f15e34f65c00800000000000000
+      internalID: 889166524952643626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 282
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbb82fad4eee080800000000000000
+      internalID: -9156129363374391954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_21
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 280
+        width: 197
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207b3ac9b28a15980800000000000000
+      internalID: -8551869312134826238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 185
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1573a7ace9a6820800000000000000
+      internalID: 2912314701519475129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 28
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb6c824c8ac66fb0800000000000000
+      internalID: -4654810461080097797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 29
+        width: 180
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e59286f09684e0800000000000000
+      internalID: -1979735597755537675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 29
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2703d08fcac9420800000000000000
+      internalID: 2638173663105413805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 32
+        width: 174
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10cae8903188a00800000000000000
+      internalID: 758877468981199283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 30
+        width: 162
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff42d269eed418f0800000000000000
+      internalID: -570586158802513933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_28
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 29
+        width: 175
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f868da82f8b00f6b0800000000000000
+      internalID: -5264695254905420145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_29
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 29
+        width: 166
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9994ee28bff4a70800000000000000
+      internalID: 8813539535549471156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-run_30
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 285
+        width: 205
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54bae4b8d938044b85697c19f056b67
+      internalID: 456518953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcfbd83a6db973340b61c5fa67262f8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Perso-run_0: -724451293312547840
+      Perso-run_1: 176096166144578646
+      Perso-run_10: -8417803943824415488
+      Perso-run_11: 28203330063594385
+      Perso-run_12: -1193919541361393378
+      Perso-run_13: -4771705104609167124
+      Perso-run_14: -6503349022959478730
+      Perso-run_15: 2001376931368645930
+      Perso-run_16: -5691906690730819412
+      Perso-run_17: 2518752665872593854
+      Perso-run_18: -7260359362680129653
+      Perso-run_19: 889166524952643626
+      Perso-run_2: -7498188280912257515
+      Perso-run_20: -9156129363374391954
+      Perso-run_21: -8551869312134826238
+      Perso-run_22: 2912314701519475129
+      Perso-run_23: -4654810461080097797
+      Perso-run_24: -1979735597755537675
+      Perso-run_25: 2638173663105413805
+      Perso-run_26: 758877468981199283
+      Perso-run_27: -570586158802513933
+      Perso-run_28: -5264695254905420145
+      Perso-run_29: 8813539535549471156
+      Perso-run_3: 5292652106087418842
+      Perso-run_30: 456518953
+      Perso-run_4: 3030555593106953031
+      Perso-run_5: 4933195532537443296
+      Perso-run_6: 3455352275684970034
+      Perso-run_7: 7741383818967929222
+      Perso-run_8: -5919258105899540778
+      Perso-run_9: 8542685342560988997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

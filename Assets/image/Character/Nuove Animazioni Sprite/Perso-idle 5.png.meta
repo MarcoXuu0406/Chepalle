@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 4a11df8aa9aaa5c4fbb7fd7ec7e11eea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8173894430497492665
+    second: Perso-idle_0
+  - first:
+      213: -8536179335693758982
+    second: Perso-idle_1
+  - first:
+      213: 9089741857758080131
+    second: Perso-idle_2
+  - first:
+      213: 2579191787664500462
+    second: Perso-idle_3
+  - first:
+      213: -748812576172302905
+    second: Perso-idle_4
+  - first:
+      213: -3395043024591819448
+    second: Perso-idle_5
+  - first:
+      213: 6524426076715344249
+    second: Perso-idle_6
+  - first:
+      213: -7361885437653300282
+    second: Perso-idle_7
+  - first:
+      213: -4586396151563619807
+    second: Perso-idle_8
+  - first:
+      213: 5368368987290844907
+    second: Perso-idle_9
+  - first:
+      213: -2470459784568570494
+    second: Perso-idle_10
+  - first:
+      213: -2951673846580309310
+    second: Perso-idle_11
+  - first:
+      213: -8075301836502270298
+    second: Perso-idle_12
+  - first:
+      213: -1917696445289969372
+    second: Perso-idle_13
+  - first:
+      213: 2113089307892995156
+    second: Perso-idle_14
+  - first:
+      213: 2072194060570483590
+    second: Perso-idle_15
+  - first:
+      213: 5089054844524411692
+    second: Perso-idle_16
+  - first:
+      213: -7621901951085470351
+    second: Perso-idle_17
+  - first:
+      213: -1647425202303470330
+    second: Perso-idle_18
+  - first:
+      213: 3381462474583267819
+    second: Perso-idle_19
+  - first:
+      213: -191432674444146694
+    second: Perso-idle_20
+  - first:
+      213: 8178014040967139337
+    second: Perso-idle_21
+  - first:
+      213: -3643671209072812912
+    second: Perso-idle_22
+  - first:
+      213: -2414379295007712782
+    second: Perso-idle_23
+  - first:
+      213: -4053364174563052785
+    second: Perso-idle_24
+  - first:
+      213: -2802066089076956514
+    second: Perso-idle_25
+  - first:
+      213: 4160511262506475126
+    second: Perso-idle_26
+  - first:
+      213: 4136678076793363448
+    second: Perso-idle_27
+  - first:
+      213: -5144848418306366882
+    second: Perso-idle_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Perso-idle_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 734
+        width: 134
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74137a6925e709e80800000000000000
+      internalID: -8173894430497492665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 733
+        width: 134
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd81fcee16698980800000000000000
+      internalID: -8536179335693758982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 731
+        width: 145
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c6ba36f00452e70800000000000000
+      internalID: 9089741857758080131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 733
+        width: 137
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6e85704412bc320800000000000000
+      internalID: 2579191787664500462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 731
+        width: 129
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd97e9edeeab95f0800000000000000
+      internalID: -748812576172302905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 734
+        width: 136
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d690a5b5262e0d0800000000000000
+      internalID: -3395043024591819448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_6
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 732
+        width: 139
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e9e9e2fa6b8a50800000000000000
+      internalID: 6524426076715344249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_7
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 732
+        width: 138
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbcd8b033455d990800000000000000
+      internalID: -7361885437653300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 733
+        width: 159
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122f4dafff8d950c0800000000000000
+      internalID: -4586396151563619807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 448
+        width: 139
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb1bea627408a40800000000000000
+      internalID: 5368368987290844907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 443
+        width: 191
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef835b3c3ceef80800000000000000
+      internalID: -8075301836502270298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_13
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 443
+        width: 159
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429467f4e39f265e0800000000000000
+      internalID: -1917696445289969372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_14
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 454
+        width: 175
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45453a7a783335d10800000000000000
+      internalID: 2113089307892995156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_15
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 452
+        width: 159
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5af5e489e1cc10800000000000000
+      internalID: 2072194060570483590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 455
+        width: 137
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bbb5a0b64ff9640800000000000000
+      internalID: 5089054844524411692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 219
+        width: 204
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d91bcde80993690800000000000000
+      internalID: -7621901951085470351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_18
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 221
+        width: 198
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605fca6c18b2329e0800000000000000
+      internalID: -1647425202303470330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be959d2743e5dee20800000000000000
+      internalID: 3381462474583267819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 211
+        width: 170
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78a513ff4e75df0800000000000000
+      internalID: -191432674444146694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d008f0742e7170800000000000000
+      internalID: 8178014040967139337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 17
+        width: 160
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c95e027541f6dc0800000000000000
+      internalID: -3643671209072812912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 18
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9d108b2d66e7ed0800000000000000
+      internalID: -2414379295007712782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ffd542ce8fb7c0800000000000000
+      internalID: -4053364174563052785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 21
+        width: 186
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92666becbf0d19d0800000000000000
+      internalID: -2802066089076956514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_26
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 15
+        width: 134
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed5bd23fa1db930800000000000000
+      internalID: 4160511262506475126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_27
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 16
+        width: 133
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb1a653bce686930800000000000000
+      internalID: 4136678076793363448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_28
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 18
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526e934f93d998b0800000000000000
+      internalID: -5144848418306366882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_29
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 454
+        width: 170
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590b2bc5131ff348895c3486783f8f0
+      internalID: 555526880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_30
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 451
+        width: 166
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9513bdb83226202458b6af5e8187b729
+      internalID: 467561975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 219
+        width: 152
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3eb8e63d5a3524aae5459a23f2b1c6
+      internalID: -1199953525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 219
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00141008137e8c4fae420b7e788d773
+      internalID: 1170792276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_33
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 220
+        width: 204
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbec13c644a75c4194a460d68033733
+      internalID: 10748385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 18
+        width: 136
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d64f16f2e5c64d8ec93d5322ca829
+      internalID: 1269803086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso-idle_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 454
+        width: 175
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3cf224bd451843bd2d8b81fc22b7e
+      internalID: -842668098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: af2496dafca87514bbadde0f101447db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Perso-idle_0: -8173894430497492665
+      Perso-idle_1: -8536179335693758982
+      Perso-idle_10: -2470459784568570494
+      Perso-idle_11: -2951673846580309310
+      Perso-idle_12: -8075301836502270298
+      Perso-idle_13: -1917696445289969372
+      Perso-idle_14: 2113089307892995156
+      Perso-idle_15: 2072194060570483590
+      Perso-idle_16: 5089054844524411692
+      Perso-idle_17: -7621901951085470351
+      Perso-idle_18: -1647425202303470330
+      Perso-idle_19: 3381462474583267819
+      Perso-idle_2: 9089741857758080131
+      Perso-idle_20: -191432674444146694
+      Perso-idle_21: 8178014040967139337
+      Perso-idle_22: -3643671209072812912
+      Perso-idle_23: -2414379295007712782
+      Perso-idle_24: -4053364174563052785
+      Perso-idle_25: -2802066089076956514
+      Perso-idle_26: 4160511262506475126
+      Perso-idle_27: 4136678076793363448
+      Perso-idle_28: -5144848418306366882
+      Perso-idle_29: 555526880
+      Perso-idle_3: 2579191787664500462
+      Perso-idle_30: 467561975
+      Perso-idle_31: -1199953525
+      Perso-idle_32: 1170792276
+      Perso-idle_33: 10748385
+      Perso-idle_34: 1269803086
+      Perso-idle_35: -842668098
+      Perso-idle_36: -316689102
+      Perso-idle_4: -748812576172302905
+      Perso-idle_5: -3395043024591819448
+      Perso-idle_6: 6524426076715344249
+      Perso-idle_7: -7361885437653300282
+      Perso-idle_8: -4586396151563619807
+      Perso-idle_9: 5368368987290844907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
